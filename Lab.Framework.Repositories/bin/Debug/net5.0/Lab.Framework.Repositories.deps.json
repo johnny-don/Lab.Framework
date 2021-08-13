@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab.Framework.Repositories/1.0.0": {
+        "dependencies": {
+          "Lab.Framework.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Lab.Framework.Repositories.dll": {}
+        }
+      },
+      "Lab.Framework.Entities/1.0.0": {
+        "runtime": {
+          "Lab.Framework.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab.Framework.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab.Framework.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

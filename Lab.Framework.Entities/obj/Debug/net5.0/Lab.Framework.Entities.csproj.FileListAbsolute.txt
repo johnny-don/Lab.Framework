@@ -1,0 +1,11 @@
+C:\Repos\Lab.Framework\Lab.Framework.Entities\bin\Debug\net5.0\Lab.Framework.Entities.deps.json
+C:\Repos\Lab.Framework\Lab.Framework.Entities\bin\Debug\net5.0\Lab.Framework.Entities.dll
+C:\Repos\Lab.Framework\Lab.Framework.Entities\bin\Debug\net5.0\ref\Lab.Framework.Entities.dll
+C:\Repos\Lab.Framework\Lab.Framework.Entities\bin\Debug\net5.0\Lab.Framework.Entities.pdb
+C:\Repos\Lab.Framework\Lab.Framework.Entities\obj\Debug\net5.0\Lab.Framework.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Lab.Framework\Lab.Framework.Entities\obj\Debug\net5.0\Lab.Framework.Entities.AssemblyInfoInputs.cache
+C:\Repos\Lab.Framework\Lab.Framework.Entities\obj\Debug\net5.0\Lab.Framework.Entities.AssemblyInfo.cs
+C:\Repos\Lab.Framework\Lab.Framework.Entities\obj\Debug\net5.0\Lab.Framework.Entities.csproj.CoreCompileInputs.cache
+C:\Repos\Lab.Framework\Lab.Framework.Entities\obj\Debug\net5.0\Lab.Framework.Entities.dll
+C:\Repos\Lab.Framework\Lab.Framework.Entities\obj\Debug\net5.0\ref\Lab.Framework.Entities.dll
+C:\Repos\Lab.Framework\Lab.Framework.Entities\obj\Debug\net5.0\Lab.Framework.Entities.pdb

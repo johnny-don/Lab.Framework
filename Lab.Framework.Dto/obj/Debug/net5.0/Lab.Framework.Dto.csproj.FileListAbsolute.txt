@@ -1,0 +1,11 @@
+C:\Repos\Lab.Framework\Lab.Framework.Dto\bin\Debug\net5.0\Lab.Framework.Dto.deps.json
+C:\Repos\Lab.Framework\Lab.Framework.Dto\bin\Debug\net5.0\Lab.Framework.Dto.dll
+C:\Repos\Lab.Framework\Lab.Framework.Dto\bin\Debug\net5.0\ref\Lab.Framework.Dto.dll
+C:\Repos\Lab.Framework\Lab.Framework.Dto\bin\Debug\net5.0\Lab.Framework.Dto.pdb
+C:\Repos\Lab.Framework\Lab.Framework.Dto\obj\Debug\net5.0\Lab.Framework.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Lab.Framework\Lab.Framework.Dto\obj\Debug\net5.0\Lab.Framework.Dto.AssemblyInfoInputs.cache
+C:\Repos\Lab.Framework\Lab.Framework.Dto\obj\Debug\net5.0\Lab.Framework.Dto.AssemblyInfo.cs
+C:\Repos\Lab.Framework\Lab.Framework.Dto\obj\Debug\net5.0\Lab.Framework.Dto.csproj.CoreCompileInputs.cache
+C:\Repos\Lab.Framework\Lab.Framework.Dto\obj\Debug\net5.0\Lab.Framework.Dto.dll
+C:\Repos\Lab.Framework\Lab.Framework.Dto\obj\Debug\net5.0\ref\Lab.Framework.Dto.dll
+C:\Repos\Lab.Framework\Lab.Framework.Dto\obj\Debug\net5.0\Lab.Framework.Dto.pdb
