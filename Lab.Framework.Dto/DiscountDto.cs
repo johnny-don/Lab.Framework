@@ -4,11 +4,11 @@
 
     public class DiscountDto
     {
-        public Guid Id { get; }
+        public Guid Id { get;set; }
 
-        public string Name { get; }
+        public string Name { get;set; }
 
-        public int Amount { get; }
+        public int Amount { get;set; }
 
         public char Grade =>
             Amount switch
